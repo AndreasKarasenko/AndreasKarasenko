@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasKarasenko
 - 👀 I’m interested in Python, Data Science, Rock Climbing
-- 🌱 I’m currently learning Automated Root Cause Analysis, C++, SQL, Python (always)
+- 🌱 I’m currently learning MERN / FARM, Sequential Recommendation Systems, SQL, Python (always)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
