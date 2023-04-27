@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreasKarasenko
 - 👀 I’m interested in Python, Data Science, Rock Climbing
 - 🌱 I’m currently learning MERN / FARM, Sequential Recommendation Systems, SQL, Process Mining
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andreas.karasenko@uni-bayreuth.de
 
 <!---
