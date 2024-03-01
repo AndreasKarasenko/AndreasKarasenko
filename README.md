@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasKarasenko
 - 👀 I’m interested in Python, Data Science, Rock Climbing
-- 🌱 I’m currently learning MERN / FARM, Sequential Recommendation Systems, SQL, Process Mining
+- 🌱 I’m currently learning full stack development (mostly django), Recommendation Systems, SQL, Natural Language Processing (mostly transformers)
 - 📫 How to reach me: andreas.karasenko@uni-bayreuth.de
 
 <!---
